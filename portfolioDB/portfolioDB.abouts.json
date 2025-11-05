@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "690a31afb845757a0218787f"
+  },
+  "pageTitle": "About – Tarun Kannadas",
+  "aboutMe": {
+    "heading": "About Me",
+    "content": "I am currently enrolled in an MVoc in Software Application Development at CUSAT under the DDUKK department, where I build pragmatic and industry-specific tech abilities. Earlier, I was an employee at Bumberry as a Marketing Associate, with core work in Digital Marketing—campaign management, content strategy, and digital brand presence. Through this, I developed essential non-technical skills such as communication, planning, and flexibility. My Computer Applications degree from SSTM provided a foundation for my interest in programming, web development, and design. As a freelance, I have done 3D modeling using Blender, scripting with Lua, and game development for Roblox (using the username CREED_3056). I'm also familiar with software such as DaVinci Resolve and Shopify, and I regularly delve into AI-based technologies to improve the quality and creativity of my output."
+  },
+  "skillsSection": {
+    "heading": "Skills",
+    "skillsList": [
+      "Web Dev (HTML, CSS, JS, Bootstrap, PHP, MySQL)",
+      "Android Dev (Kotlin, Java, Retrofit, ExoPlayer)",
+      "Back-End Dev (Python Flask, SQLite)",
+      "3D Modeling & Texturing (Blender, Roblox Studio, Lua)",
+      "Node.js & API Integration",
+      "UI/UX & Graphic Tools (Photoshop, Lightroom, DaVinci)"
+    ]
+  },
+  "goalsSection": {
+    "heading": "My Goals",
+    "goalDescription": "To continuously learn, innovate, and deliver quality software and design solutions to real-world problems."
+  },
+  "footer": {
+    "year": 2025,
+    "developerName": "Tarun Kannadas",
+    "quickLinks": {
+      "home": "/",
+      "about": "/about",
+      "contact": "/contact"
+    },
+    "socialLinks": {
+      "github": "https://github.com/tarun-kannadas",
+      "linkedin": "https://linkedin.com/in/tarun-kannadas-69ba93240/",
+      "instagram": "https://instagram.com/chikashidoto_2002"
+    },
+    "contactDetails": {
+      "email": "tarunkannadas@gmail.com",
+      "phone": "+91-9072160041",
+      "location": "Kochi, India"
+    }
+  },
+  "__v": 0
+}]

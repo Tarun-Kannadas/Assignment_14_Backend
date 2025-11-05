@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "690a2e4c1c41d73535c466ac"
+  },
+  "title": "Contact Me",
+  "subtitle": "Fill out the form below to send me a message.",
+  "formSection": {
+    "fields": [
+      {
+        "label": "Name",
+        "name": "name",
+        "type": "text",
+        "required": true,
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466ad"
+        }
+      },
+      {
+        "label": "Phone Number",
+        "name": "phone",
+        "type": "tel",
+        "required": false,
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466ae"
+        }
+      },
+      {
+        "label": "Place",
+        "name": "place",
+        "type": "text",
+        "required": false,
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466af"
+        }
+      },
+      {
+        "label": "Email",
+        "name": "email",
+        "type": "email",
+        "required": true,
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b0"
+        }
+      },
+      {
+        "label": "Message",
+        "name": "message",
+        "type": "textarea",
+        "required": true,
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b1"
+        }
+      }
+    ],
+    "buttons": [
+      {
+        "id": "submitbtn",
+        "label": "Send Message",
+        "type": "submit",
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b2"
+        }
+      },
+      {
+        "id": "clearbtn",
+        "label": "Clear Message",
+        "type": "reset",
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b3"
+        }
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2025 Tarun Kannadas | Designed & Developed by Me",
+    "quickLinks": [
+      {
+        "name": "Home",
+        "url": "home.html",
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b4"
+        }
+      },
+      {
+        "name": "About",
+        "url": "about.html",
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b5"
+        }
+      },
+      {
+        "name": "Contact",
+        "url": "contact.html",
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b6"
+        }
+      }
+    ],
+    "socialLinks": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/tarun-kannadas",
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b7"
+        }
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/tarun-kannadas-69ba93240/",
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b8"
+        }
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/chikashidoto_2002",
+        "_id": {
+          "$oid": "690a2e4c1c41d73535c466b9"
+        }
+      }
+    ],
+    "contactDetails": {
+      "email": "tarunkannadas@gmail.com",
+      "phone": "+91-9072160041",
+      "location": "Kochi, India"
+    }
+  },
+  "__v": 0
+}]

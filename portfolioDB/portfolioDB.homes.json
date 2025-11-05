@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "690a2bdbf8e5082f0193d3c5"
+  },
+  "title": "Home – Tarun Kannadas",
+  "heroSection": {
+    "heading": "Hi, I'm Tarun Kannadas",
+    "description": "I’m a passionate 22-year-old BCA graduate from India, building dynamic websites, eCommerce platforms, and diving into 3D modeling and game development. I love bringing creative ideas to life with code.",
+    "linkText": "Learn More About Me",
+    "linkURL": "https://linktr.ee/tarunkannadas"
+  },
+  "whatIDoSection": {
+    "title": "What I Do?",
+    "leftBlock": {
+      "image": "images/left_image.png",
+      "heading": "My 3D Works",
+      "link": "https://drive.google.com/drive/folders/1FWadBv-2jte8WVP5UQiizBRyCvQUO7py?usp=sharing"
+    },
+    "middleText": "I’m a passionate web developer and creative designer who loves building dynamic, responsive websites using HTML, CSS, Bootstrap, JavaScript, PHP, and MySQL. Alongside coding, I have hands-on experience in 3D modeling, creating gaming assets like vehicles, buildings, and props for the Roblox community between January 2022 and April 2024. Whether it’s crafting websites or designing 3D worlds, I enjoy turning ideas into impactful digital experiences through creativity and technology.",
+    "rightBlock": {
+      "image": "images/givespin.png",
+      "heading": "My Web Projects",
+      "link": "https://sphere-spin-threejs.onrender.com/"
+    }
+  },
+  "experiencesSection": {
+    "title": "Experiences",
+    "projects": [
+      {
+        "image": "images/job_portal.png",
+        "alt": "Job Portal",
+        "link": "https://job-portal-bnre.onrender.com/",
+        "_id": {
+          "$oid": "690a2bdbf8e5082f0193d3c6"
+        }
+      },
+      {
+        "image": "images/portfolio_wordpress.png",
+        "alt": "Wordpress Portfolio Project",
+        "link": "https://tarunkannadas2002.wordpress.com/",
+        "_id": {
+          "$oid": "690a2bdbf8e5082f0193d3c7"
+        }
+      },
+      {
+        "image": "images/solar_secure_solutions.png",
+        "alt": "Solar Secure Solutions",
+        "link": "https://drive.google.com/file/d/1V78AOaJEb0miocgBu_q5oKyfUSb1tMXg/view",
+        "_id": {
+          "$oid": "690a2bdbf8e5082f0193d3c8"
+        }
+      },
+      {
+        "image": "images/android_experience.png",
+        "alt": "Android Experience",
+        "link": "https://drive.google.com/file/d/15btRwmR9amqglixmA2hjaewO4Om7lOgY/view",
+        "_id": {
+          "$oid": "690a2bdbf8e5082f0193d3c9"
+        }
+      }
+    ]
+  },
+  "footer": {
+    "year": "2025",
+    "developerName": "Tarun Kannadas",
+    "quickLinks": [
+      "Home",
+      "About",
+      "Contact"
+    ],
+    "socialLinks": {
+      "github": "https://github.com/tarun-kannadas",
+      "linkedin": "https://linkedin.com/in/tarun-kannadas-69ba93240/",
+      "instagram": "https://instagram.com/chikashidoto_2002"
+    },
+    "contact": {
+      "email": "tarunkannadas@gmail.com",
+      "phone": "+91-9072160041",
+      "location": "Kochi, India"
+    }
+  },
+  "__v": 0
+}]
